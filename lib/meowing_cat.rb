@@ -3,5 +3,4 @@ class Cat
   def meow
     puts "meow!"
   end
-  attr_reader :meow 
 end
